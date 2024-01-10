@@ -380,5 +380,5 @@ if __name__ == "__main__":
 
         elif 'who designed you' in query:
             speak(
-                "Jaynish Mandalia and Seturaj Matroja gave birth to me and named me Jarvis.They programmed me to help "
+                "Seturaj Matroja gave birth to me and named me Jarvis.They programmed me to help "
                 "other people and reduce their workload")
